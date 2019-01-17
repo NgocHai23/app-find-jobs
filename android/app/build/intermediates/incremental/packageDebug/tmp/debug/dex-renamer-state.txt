@@ -1,0 +1,4 @@
+#Wed Jan 16 15:39:24 ICT 2019
+base.0=D\:\\Developers\\JavaScript\\React Native\\AppFindJob\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
